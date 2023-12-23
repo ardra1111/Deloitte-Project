@@ -31,3 +31,12 @@ Task 3
 How to turn a client's desires for a project into a proposal
 
 Write a proposal for creating a dashboard 
+
+
+Task 4
+
+How to support a client in a cybersecurity breach
+How to read web activity logs
+
+Help a client determine the source of a data breach
+Answer questions to identify suspicious user activity
